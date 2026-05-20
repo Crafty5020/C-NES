@@ -1,0 +1,14 @@
+{
+	"editor.fontFamily": "Monocraft",
+	"debug.console.fontFamily": "Monocraft",
+	"terminal.integrated.fontFamily": "Monocraft",
+	"notebook.markup.fontFamily": "Monocraft",
+	"notebook.output.fontFamily": "Monocraft",
+	"chat.editor.fontFamily": "Monocraft",
+	"chat.fontFamily": "Monocraft",
+	"editor.inlineSuggest.fontFamily": "Monocraft",
+	"scm.inputFontFamily": "Monocraft",
+	"gitlens.currentLine.fontFamily": "Monocraft",
+	"gitlens.blame.fontFamily": "Monocraft",
+	"markdown.preview.fontFamily": "Monocraft"
+}
