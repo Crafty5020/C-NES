@@ -58,6 +58,8 @@ dkms.conf
 
 # Ignore Ghidra lock files
 *.lock
+*.lock~
+*.gpr
 *.rep/user/
 
 # Ignore temporary and log files
