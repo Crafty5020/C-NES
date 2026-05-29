@@ -55,4 +55,20 @@ dkms.conf
 *.dwo
 
 # Ghidra
-Ghidra
+
+# Ignore Ghidra lock files
+*.lock
+*.lock~
+*.gpr
+*.rep
+
+# Ignore temporary and log files
+*.log
+*.tmp
+
+# Optional: Ignore the entire .rep directory if you only want to track 
+# exported scripts/XML, but usually you track this for the database
+# !*.rep/
+
+# ROM Ignore ROM files
+*.nes
